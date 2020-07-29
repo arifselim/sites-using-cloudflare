@@ -916,6 +916,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [opensubtitles.org](http://opensubtitles.org)
 - [opinionlab.com](http://opinionlab.com)
 - [opposingviews.com](http://opposingviews.com)
+- [oppoturkiye.org](https://www.oppoturkiye.org)
 - [optimizepress.com](http://optimizepress.com)
 - [optionbit.com](http://optionbit.com)
 - [orgasmatrix.com](http://orgasmatrix.com)
